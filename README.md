@@ -1,1 +1,1 @@
-# product-list-layout
+# Product List Template
